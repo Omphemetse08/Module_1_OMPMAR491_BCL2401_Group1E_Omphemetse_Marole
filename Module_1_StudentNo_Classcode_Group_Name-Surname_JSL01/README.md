@@ -28,3 +28,7 @@ Used css for styling.
 -Enter a pet adoption details in the input field following the specified syntax (e.g Pet_2024Snoopy).
 -Click the "Validate" button.
 -The validation result will be displayed below the input field.
+
+# Challenges
+
+-I had no challenges.
