@@ -43,16 +43,16 @@ button:hover {
 
 .valid {
   background-color: #008000;
-  width: 20px;
-  height: 20px;
+  width: 30px;
+  height: 30px;
   border-radius: 50%;
   display: inline-block;
 }
 
 .invalid {
   background-color: #ff4500;
-  width: 20px;
-  height: 20px;
+  width: 30px;
+  height: 30px;
   border-radius: 50%;
   display: inline-block;
 }
